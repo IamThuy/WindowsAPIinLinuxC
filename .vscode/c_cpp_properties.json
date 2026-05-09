@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "name": "Win64",
+            "compilerPath": "/usr/bin/x86_64-w64-mingw32-gcc",
+            "intelliSenseMode": "linux-gcc-x64",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "cStandard": "c17"
+        }
+    ],
+    "version": 4
+}
